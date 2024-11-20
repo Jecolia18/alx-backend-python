@@ -1,0 +1,2 @@
+# Python advanced
+# variable annotations
