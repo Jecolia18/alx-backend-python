@@ -1,4 +1,4 @@
-#!/usr/bin env python3
+#!/usr/bin/ env python3
 """genereate a list """
 from typing import List
 async_generator = __import__('async_generator').async_generator
